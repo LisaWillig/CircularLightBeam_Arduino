@@ -4,4 +4,4 @@ An Arduino Nano is used to illuminate LEDs along the storage ring and Beamlines 
 
 ![Bessy Model on PhD Hat](BessyBeam.gif)
 
-![Bessy Model on PhD Hat](PhD_Hat.jpg)
+![Bessy Model on PhD Hat](PhD_Hat.png)
